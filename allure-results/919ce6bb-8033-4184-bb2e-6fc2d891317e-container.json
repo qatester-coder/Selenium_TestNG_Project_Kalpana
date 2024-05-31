@@ -1,0 +1,1 @@
+{"uuid":"919ce6bb-8033-4184-bb2e-6fc2d891317e","name":"tests.PizzaOrderTest.setup","children":["5d9bc344-3c06-4427-8df2-4ea2c3a4bcc1"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1713521991048,"stop":1713521996967}],"afters":[],"start":1713521991047,"stop":1713521996968}

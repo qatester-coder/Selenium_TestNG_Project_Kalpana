@@ -1,0 +1,1 @@
+{"uuid":"32b69074-acb2-43ea-9403-873b4db7aab8","name":"AllureReport.testAllure.setup","children":["95c96bc5-052c-45c8-a05f-745f3eb2132a"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1713480129524,"stop":1713480139047}],"afters":[],"start":1713480129523,"stop":1713480139050}
