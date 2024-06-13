@@ -2,44 +2,44 @@
 <testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-23T09:49:19 CDT" name="PizzaOrderSuite" finished-at="2024-05-23T09:49:40 CDT" duration-ms="21523">
+  <suite started-at="2024-06-13T11:07:20 CDT" name="Default suite" finished-at="2024-06-13T11:07:31 CDT" duration-ms="11299">
     <groups>
     </groups>
-    <test started-at="2024-05-23T09:49:19 CDT" name="PizzaOrderTest" finished-at="2024-05-23T09:49:40 CDT" duration-ms="21523">
+    <test started-at="2024-06-13T11:07:20 CDT" name="Default test" finished-at="2024-06-13T11:07:31 CDT" duration-ms="11299">
       <class name="tests.PizzaOrderTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PizzaOrderTest@531c311e]" started-at="2024-05-23T09:49:01 CDT" name="setup" finished-at="2024-05-23T09:49:19 CDT" duration-ms="17700" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PizzaOrderTest@1fa1cab1]" started-at="2024-06-13T11:07:14 CDT" name="setup" finished-at="2024-06-13T11:07:20 CDT" duration-ms="6524" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="EnterLocation()[pri:1, instance:tests.PizzaOrderTest@531c311e]" started-at="2024-05-23T09:49:19 CDT" name="EnterLocation" finished-at="2024-05-23T09:49:22 CDT" duration-ms="3071" status="PASS">
+        <test-method signature="EnterLocation()[pri:1, instance:tests.PizzaOrderTest@1fa1cab1]" started-at="2024-06-13T11:07:20 CDT" name="EnterLocation" finished-at="2024-06-13T11:07:23 CDT" duration-ms="2272" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EnterLocation -->
-        <test-method signature="SidePage()[pri:2, instance:tests.PizzaOrderTest@531c311e]" started-at="2024-05-23T09:49:22 CDT" name="SidePage" finished-at="2024-05-23T09:49:28 CDT" duration-ms="5756" status="PASS">
+        <test-method signature="SidePage()[pri:2, instance:tests.PizzaOrderTest@1fa1cab1]" started-at="2024-06-13T11:07:23 CDT" name="SidePage" finished-at="2024-06-13T11:07:26 CDT" duration-ms="3066" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SidePage -->
-        <test-method signature="DrinkPage()[pri:3, instance:tests.PizzaOrderTest@531c311e]" started-at="2024-05-23T09:49:28 CDT" name="DrinkPage" finished-at="2024-05-23T09:49:31 CDT" duration-ms="3641" status="PASS">
+        <test-method signature="DrinkPage()[pri:3, instance:tests.PizzaOrderTest@1fa1cab1]" started-at="2024-06-13T11:07:26 CDT" name="DrinkPage" finished-at="2024-06-13T11:07:28 CDT" duration-ms="1874" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DrinkPage -->
-        <test-method signature="CheckoutPage()[pri:4, instance:tests.PizzaOrderTest@531c311e]" started-at="2024-05-23T09:49:31 CDT" name="CheckoutPage" finished-at="2024-05-23T09:49:33 CDT" duration-ms="1815" status="PASS">
+        <test-method signature="CheckoutPage()[pri:4, instance:tests.PizzaOrderTest@1fa1cab1]" started-at="2024-06-13T11:07:28 CDT" name="CheckoutPage" finished-at="2024-06-13T11:07:29 CDT" duration-ms="948" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CheckoutPage -->
-        <test-method signature="RadioButton()[pri:5, instance:tests.PizzaOrderTest@531c311e]" started-at="2024-05-23T09:49:33 CDT" name="RadioButton" finished-at="2024-05-23T09:49:34 CDT" duration-ms="469" status="PASS">
+        <test-method signature="RadioButton()[pri:5, instance:tests.PizzaOrderTest@1fa1cab1]" started-at="2024-06-13T11:07:29 CDT" name="RadioButton" finished-at="2024-06-13T11:07:29 CDT" duration-ms="187" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- RadioButton -->
-        <test-method signature="GiftCard()[pri:6, instance:tests.PizzaOrderTest@531c311e]" started-at="2024-05-23T09:49:34 CDT" name="GiftCard" finished-at="2024-05-23T09:49:40 CDT" duration-ms="6424" status="PASS">
+        <test-method signature="GiftCard()[pri:6, instance:tests.PizzaOrderTest@1fa1cab1]" started-at="2024-06-13T11:07:29 CDT" name="GiftCard" finished-at="2024-06-13T11:07:31 CDT" duration-ms="2712" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- GiftCard -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.PizzaOrderTest@531c311e]" started-at="2024-05-23T09:49:41 CDT" name="tearDown" finished-at="2024-05-23T09:49:44 CDT" duration-ms="3390" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.PizzaOrderTest@1fa1cab1]" started-at="2024-06-13T11:07:32 CDT" name="tearDown" finished-at="2024-06-13T11:07:33 CDT" duration-ms="1208" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- tests.PizzaOrderTest -->
-    </test> <!-- PizzaOrderTest -->
-  </suite> <!-- PizzaOrderSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

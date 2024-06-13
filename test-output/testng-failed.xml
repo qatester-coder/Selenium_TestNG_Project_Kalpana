@@ -8,14 +8,12 @@
     <classes>
       <class name="tests.PizzaOrderTest">
         <methods>
-          <include name="EnterLocation"/>
           <include name="GiftCard"/>
           <include name="CheckoutPage"/>
           <include name="DrinkPage"/>
           <include name="RadioButton"/>
           <include name="setup"/>
           <include name="tearDown"/>
-          <include name="SidePage"/>
         </methods>
       </class> <!-- tests.PizzaOrderTest -->
     </classes>

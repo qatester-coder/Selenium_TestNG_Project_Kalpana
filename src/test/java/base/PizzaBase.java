@@ -79,7 +79,8 @@ public class PizzaBase {
 
 	public String takeScreenShot(String testname, WebDriver driver) throws IOException {
 		SimpleDateFormat dateFormat = new SimpleDateFormat("yyyyMMddHHmmss");
-		testname = dateFormat.format(new Date()) + "_" + screenshotCounter + ".png";
+		// testname = dateFormat.format(new Date()) + "_" + screenshotCounter + ".png";
+		testname = dateFormat.format(new Date()) + "_" + screenshotCounter;
 
 		File srcScreenShot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 		String screenshotFilePath = System.getProperty("user.dir") + "\\Screenshots\\" + testname + ".png";
